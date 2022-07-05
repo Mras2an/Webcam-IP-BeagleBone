@@ -1,8 +1,8 @@
 #Webcam IP
 
-Exemple to "Webcam IP" with UDP for Linux embedded.
-I suggest you to optimize this code because it has many 
-modification to improve these performances.
+Example to "Webcam IP" with UDP for Linux embedded.
+I suggest you optimize this code because it has many 
+modifications to improve these performances.
 
 Developed and modified by Mras2an for the HD3000 camera.
 
